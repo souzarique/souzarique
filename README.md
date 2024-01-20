@@ -11,7 +11,7 @@ https://www.markdownguide.org/cheat-sheet/
 
 2. Suporte em Departamento Pessoal
 
-3. Iniciando no curso de Python
+3. Iniciando no curso de Python :computer:
 
 4. Logo após c#
 
